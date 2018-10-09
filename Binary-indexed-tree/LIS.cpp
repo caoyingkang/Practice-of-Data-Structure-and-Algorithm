@@ -1,6 +1,6 @@
-#include <iostream>
+#include <cstdio>
 #include <algorithm>
-#define MAX 1010
+#define MAX 300010
 using namespace std;
 
 struct Node
@@ -35,11 +35,11 @@ void Update_C(int k, int val)
 
 int main(int argc, char const *argv[])
 {
-    cin >> len;
+    scanf("%d", &len);
     for (int i = 1; i <= len; ++i)
     {
         lowbit[i] = i & (-i);
-        cin >> arr[i].val;
+        scanf("%d", &arr[i].val);
         arr[i].pos = i;
     }
     sort(arr + 1, arr + len + 1, comp);
@@ -49,6 +49,6 @@ int main(int argc, char const *argv[])
         p = arr[i].pos;
         Update_C(p, getMax(p) + 1);
     }
-    cout << *max_element(C + 1, C + len + 1) << endl;
+    printf("%d", *max_element(C + 1, C + len + 1));
     return 0;
 }
