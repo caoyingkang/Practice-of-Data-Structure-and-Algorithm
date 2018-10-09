@@ -1,7 +1,7 @@
 # Practice-of-Data-Structure-and-Algorithm
 Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm 2018 Fall" Course
 
-##Problems List
+## Problems List
 
 - Disjoint Set / Merge-Find Set
   - `bug'sLife.cpp` [POJ-2492](http://poj.org/problem?id=2492)
