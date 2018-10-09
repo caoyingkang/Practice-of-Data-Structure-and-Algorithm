@@ -42,7 +42,7 @@ int main(int argc, char const *argv[])
         cin >> arr[i].val;
         arr[i].pos = i;
     }
-    stable_sort(arr + 1, arr + len + 1, comp);
+    sort(arr + 1, arr + len + 1, comp);
     int p;
     for (int i = 1; i <= len; ++i)
     {
