@@ -14,5 +14,5 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm 2018 Fall" C
   - `LIS.cpp` [openjudge-bailian-2757](http://bailian.openjudge.cn/practice/2757/)
   - `AppleTree.cpp` [POJ-3321](http://poj.org/problem?id=3321)
   - `MobilePhones.cpp` [POJ-1195](http://poj.org/problem?id=1195)
-- Interval Tree / Fenwick Tree
+- Interval Tree
   - `lostCows_n2.cpp`,`lostCows_nlogn.cpp` [POJ-2182](http://poj.org/problem?id=2182)
