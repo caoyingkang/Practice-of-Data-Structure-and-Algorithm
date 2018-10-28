@@ -1,5 +1,5 @@
 # Practice-of-Data-Structure-and-Algorithm
-Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm 2018 Fall" Course
+Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall Course
 
 ## Problems List
 
@@ -16,3 +16,6 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm 2018 Fall" C
   - `MobilePhones.cpp` [POJ-1195](http://poj.org/problem?id=1195)
 - Interval Tree
   - `lostCows_n2.cpp`,`lostCows_nlogn.cpp` [POJ-2182](http://poj.org/problem?id=2182)
+  - `k-thNumber.cpp` [POJ-2104](http://poj.org/problem?id=2104)
+  - `MayorsPoster.cpp` [POJ-2528](http://poj.org/problem?id=2528)
+  - `Picture.cpp` [POJ-1177](http://poj.org/problem?id=1177)
