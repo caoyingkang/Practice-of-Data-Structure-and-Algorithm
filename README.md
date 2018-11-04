@@ -19,3 +19,8 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall C
   - `k-thNumber.cpp` [POJ-2104](http://poj.org/problem?id=2104)
   - `MayorsPoster.cpp` [POJ-2528](http://poj.org/problem?id=2528)
   - `Picture.cpp` [POJ-1177](http://poj.org/problem?id=1177)
+- Trie Graph
+  - `multi-pattern.cpp` multi-pattern matching algorithm
+  - `VirusOnPandora.cpp` [POJ-3987](http://poj.org/problem?id=3987)
+  - `UnescapedVirus.cpp` algorithm to decide whether there exists any infinitely long string that does not contain any pattern string
+  - `DNARepair.cpp` [POJ-3691](http://poj.org/problem?id=3691)
