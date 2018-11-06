@@ -28,3 +28,4 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall C
   - `Caocao.cpp` [HDU-4738](http://acm.hdu.edu.cn/showproblem.php?pid=4738)
   - `PopularCows.cpp` [POJ-2186](http://poj.org/problem?id=2186)
   - `u2v_or_v2u.cpp` [POJ-2762](http://poj.org/problem?id=2762)
+  - `NetworkOfSchools.cpp` [POJ-1236](http://poj.org/problem?id=1236)
