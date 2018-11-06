@@ -24,3 +24,7 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall C
   - `VirusOnPandora.cpp` [POJ-3987](http://poj.org/problem?id=3987)
   - `UnescapedVirus.cpp` algorithm to decide whether there exists any infinitely long string that does not contain any pattern string
   - `DNARepair.cpp` [POJ-3691](http://poj.org/problem?id=3691)
+- Tarjan's Algorithm (strongly connected components, cut vertex, cut edge)
+  - `Caocao.cpp` [HDU-4738](http://acm.hdu.edu.cn/showproblem.php?pid=4738)
+  - `PopularCows.cpp` [POJ-2186](http://poj.org/problem?id=2186)
+  - `u2v_or_v2u.cpp` [POJ-2762](http://poj.org/problem?id=2762)
