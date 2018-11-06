@@ -29,3 +29,5 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall C
   - `PopularCows.cpp` [POJ-2186](http://poj.org/problem?id=2186)
   - `u2v_or_v2u.cpp` [POJ-2762](http://poj.org/problem?id=2762)
   - `NetworkOfSchools.cpp` [POJ-1236](http://poj.org/problem?id=1236)
+  - `CowProm.cpp` [POJ-3180](http://poj.org/problem?id=3180)
+  - `BottomOfGraph.cpp` [POJ-2553](http://poj.org/problem?id=2553)
