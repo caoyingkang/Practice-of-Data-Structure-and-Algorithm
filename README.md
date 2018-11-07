@@ -31,3 +31,4 @@ Homework&amp;Exercises of "Practice-of-Data-Structure-and-Algorithm" 2018 Fall C
   - `NetworkOfSchools.cpp` [POJ-1236](http://poj.org/problem?id=1236)
   - `CowProm.cpp` [POJ-3180](http://poj.org/problem?id=3180)
   - `BottomOfGraph.cpp` [POJ-2553](http://poj.org/problem?id=2553)
+  - `Christmas.cpp` [POJ-3160](http://poj.org/problem?id=3160)
